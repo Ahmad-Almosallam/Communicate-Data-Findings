@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# (Ford GoBike System Dateset)
+## by (Ahmad ALMosallam)
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+Ford GoBike System Dateset is a dateset that contains trip data from lyft's bike service for public use. Variables including, trip duration, start time and end time with date, start station and end station names, start and end coordinates, customer type, year of birth and gender.
 
 
 ## Summary of Findings

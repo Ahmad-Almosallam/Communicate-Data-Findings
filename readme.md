@@ -1,5 +1,5 @@
-# (Ford GoBike System Dateset)
-## by (Ahmad ALMosallam)
+# Ford GoBike System Dateset
+## by Ahmad ALMosallam
 
 
 ## Dataset
